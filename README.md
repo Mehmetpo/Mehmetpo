@@ -36,7 +36,7 @@ Upload a PDF or DOCX resume and get an ATS compatibility score, section-by-secti
 `Next.js 16` `React 19` `Supabase` `Claude API` `Inngest` `Creem` `Resend` `Vitest`
 *Status: live, private repo.*
 
-### Watt Payı: electricity bill splitter (iOS & Android)
+### Watt Payı: electricity bill splitter (iOS & Android) · [source](https://github.com/Mehmetpo/watt-payi)
 
 A Turkish-language app. You photograph your electricity bill, pick the appliances you own, and see roughly what each one costs you.
 
@@ -45,7 +45,7 @@ A Turkish-language app. You photograph your electricity bill, pick the appliance
 - One React codebase ships to iOS and Android through Capacitor, with native builds automated on Codemagic.
 
 `React` `TypeScript` `Capacitor` `Supabase Edge Functions` `Claude API` `Codemagic` `Vitest`
-*Status: in closed beta, private repo.*
+*Status: in closed beta, public repo.*
 
 ### Before & After Pro · [live](https://before-after-site-ten.vercel.app) · [source](https://github.com/Mehmetpo/before-after-site)
 
