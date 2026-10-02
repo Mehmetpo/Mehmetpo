@@ -10,7 +10,7 @@ I use AI coding tools like Claude Code every day. I review and test everything t
 
 ---
 
-### GeoVisibilityTool: AI search visibility SaaS · [geovisibilitytool.com](https://geovisibilitytool.com)
+### GeoVisibilityTool: AI search visibility SaaS · [geovisibilitytool.com](https://www.geovisibilitytool.com)
 
 Tracks how often a brand gets mentioned, ranked and cited when people ask ChatGPT, Perplexity, Gemini and Claude about its market. It then turns every gap it finds into a concrete fix: a content brief, JSON-LD markup, an `llms.txt` file, or a list of sources worth getting cited on.
 
@@ -45,9 +45,9 @@ A Turkish-language app. You photograph your electricity bill, pick the appliance
 - One React codebase ships to iOS and Android through Capacitor, with native builds automated on Codemagic.
 
 `React` `TypeScript` `Capacitor` `Supabase Edge Functions` `Claude API` `Codemagic` `Vitest`
-*Status: preparing for App Store and Google Play release.*
+*Status: in closed beta, private repo.*
 
-### Before & After Pro · [source](https://github.com/Mehmetpo/before-after-site)
+### Before & After Pro · [live](https://before-after-site-ten.vercel.app) · [source](https://github.com/Mehmetpo/before-after-site)
 
 A browser tool for comparing two images with a slider. It can export the comparison as a GIF, generate an embeddable widget, and run image enhancement in a Web Worker so the UI stays responsive.
 
