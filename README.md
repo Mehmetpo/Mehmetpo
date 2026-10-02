@@ -56,7 +56,6 @@ A browser tool for comparing two images with a slider. It can export the compari
 ### Smaller projects
 
 - **[HealthCalcs](https://healthcalcs.org):** health calculators (BMI, calories, macros, body fat, one-rep max). I spent most of the time on technical SEO: schema.org markup, a real sitemap, and FAQ content built around what people actually search for.
-- **[Verdant](https://github.com/Mehmetpo/verdant):** a plant care app that identifies a plant from a photo using Gemini. React and Capacitor. Still in progress.
 
 ---
 
